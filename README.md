@@ -2,7 +2,7 @@
 
 <br>
 
-## Date:
+## Date:17.04.2025
 
 <br>
 
@@ -55,6 +55,10 @@ Step 5: Print the integral value
 <br>
 
 ## Program:
+
+ name:yashwanth.asv
+ 
+ reg no:24900018
 
 <br>
 
